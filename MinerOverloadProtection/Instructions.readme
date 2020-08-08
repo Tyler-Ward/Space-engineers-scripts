@@ -1,0 +1,6 @@
+﻿Miner overload protection script V1.0
+=====================================
+
+This script prevents a miner overloading itself by mining beyond its maximum weight or ining when its cargo is full.
+
+Unminified source code can be found at https://github.com/Tyler-Ward/Space-engineers-scripts.
